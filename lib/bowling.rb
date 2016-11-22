@@ -1,4 +1,13 @@
 class Bowling
+  def roll(pins)
+  end
+
+  def score
+    
+  end
+end
+
+class Bowling
 
   FRAME_COUNT = 10
 
